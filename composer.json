@@ -1,0 +1,10 @@
+{
+  "name": "php/router",
+  "minimum-stability": "stable",
+  "version": "dev-master",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
